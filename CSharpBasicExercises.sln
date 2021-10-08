@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.810.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1Hello", "CSharpBasicExercises\Ex1Hello.csproj", "{EC7D9DAB-4242-4D83-808C-7E74B83AE856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2SUmTwoNumbers", "Exercise2\Ex2SUmTwoNumbers.csproj", "{FC35B20D-0A71-454F-9DC3-0E040BF1C585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2SumTwoNumbers", "Exercise2\Ex2SUmTwoNumbers.csproj", "{FC35B20D-0A71-454F-9DC3-0E040BF1C585}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3DividingTwoNumbers", "DividingTwoNumbers\Ex3DividingTwoNumbers.csproj", "{106B0063-B203-4813-8BEA-47AFE887AFAF}"
 EndProject
